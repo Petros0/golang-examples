@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	test_variables "../test_variables"
+	test_variables "./test_variables"
 )
 
 var i = 3
