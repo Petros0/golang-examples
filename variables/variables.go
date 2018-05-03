@@ -19,7 +19,7 @@ func main() {
 
 	fmt.Println(j)
 	//global variable from another package
-	fmt.Println(test_variables.A_GLOBAL_VARIABLE)
+	fmt.Println(test_variables.AGlobalVariable)
 
 	//naming
 	var theHTTP = "Keep acronyms capitals"
