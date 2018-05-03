@@ -18,7 +18,7 @@ func main() {
 	fmt.Println(i)
 
 	fmt.Println(j)
-	//global variable
+	//global variable from another package
 	fmt.Println(test_variables.A_GLOBAL_VARIABLE)
 
 	//naming
