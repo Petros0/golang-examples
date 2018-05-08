@@ -9,7 +9,7 @@ func main() {
 	fmt.Println("hey Arrays & Slices!\n#############")
 
 	// arrays
-	grades := [...]int{97, 30, 21} // '...' any length (only for) initializing hard an array
+	grades := [...]int{97, 30, 21, 42 , 52} // '...' any length (only for) initializing hard an array
 	fmt.Println(grades)
 
 	var students [3]string
