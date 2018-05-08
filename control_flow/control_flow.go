@@ -73,9 +73,7 @@ func main(){
 		fmt.Println("FLOAT!")
 	default:
 		fmt.Println("whatever")
-	}
-	
-	
+	}	
 }
 
 func returnTrue() bool {
